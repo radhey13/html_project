@@ -1,0 +1,9 @@
+@import "base.css";
+
+
+.form {
+    margin-top: auto;
+    position: absolute;
+    margin-top: 73px;
+    background-color: rgba(198, 40, 29, 0.8);
+}
