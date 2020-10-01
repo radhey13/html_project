@@ -66,6 +66,15 @@
   line-height: 25px;
 }
 
+.two ul li a {
+  text-decoration: none;
+  color: rgb(198, 40, 29);
+}
+
+.two ul li a:hover {
+  color: white;
+}
+
 .two ul li ul {
   color: rgb(198, 40, 29);
   background-color: white;
